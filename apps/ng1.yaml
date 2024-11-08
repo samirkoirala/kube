@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    path: charts/myapp
+    path: myapp
     repoURL: https://github.com/samirkoirala/kube
     targetRevision: main
     helm:
